@@ -1,0 +1,72 @@
+<style>
+
+  h1 {
+    color: rgba(0, 0, 0, .5);
+  }
+
+  p {
+    color: black;
+  }
+
+  body {
+    background-color: grey;
+  }
+
+  .purple-text {
+     color: purple;
+  }
+
+  .important {
+    font-weight:bold;
+  }
+
+  .important:hover {
+    background-color:yellow;
+  }
+
+  p.important {
+    width: 75%;
+  }
+
+  #lead-paragraph {
+    color: blue;
+    font-weight: bold;
+  }
+
+  a[href="https://clickhole.com/"] {
+    padding: .25rem;
+    background-color: orange;
+  }
+
+  a[href="https://geektyrant.com/"] {
+    padding: .25rem;
+    background-color: orange;
+  }
+
+  h1 {
+    color: black;
+    border-style: solid;
+    border-width: 1 px;
+    border-color: White;
+  }
+
+  img {
+    border-style:Solid;
+    border-color: Orange;
+    border-width: 1px;
+    width: 25%;
+  }
+
+  h1 {
+    position: fixed;
+    left: 220px;
+    top: 300px;
+    z-index: -1;
+  }
+
+  a {
+    position: relative;
+    z-index: 1;
+  ]
+
+</style>
